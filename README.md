@@ -5,7 +5,7 @@ This repository provides the codes for the spiking network model simulation and 
 The repository contains three directories:
 
 1. StateDiagrams
-2. SpikingNtwrks
+2. SpikingNetworks
 3. SpikeTrains
 
 The codes are implemented in MATLAB R2018b.
